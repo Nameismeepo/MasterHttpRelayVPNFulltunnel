@@ -5,8 +5,7 @@
 
 ---
 
-# ✅ نسخه فارسی (برای README)
-
+# ✅ آموزش فارسی
 ```markdown
 # MHRV Server Setup Guide
 
@@ -155,8 +154,7 @@ https://t.me/socks?server=127.0.0.1&port=1080
 
 ---
 
-# ✅ English Version (Professional GitHub Ready)
-
+# ✅ English Version 
 ```markdown
 # MHRV Server Setup Guide
 
