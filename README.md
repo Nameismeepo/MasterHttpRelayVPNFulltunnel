@@ -109,12 +109,7 @@ Deploy → New Deployment → Web App
 
 ## مرحله 2: دانلود پروژه
 
-```bash
-git clone https://github.com/masterking32/MasterHttpRelayVPN.git
-cd MasterHttpRelayVPN
-```
-
-یا نسخه ZIP را دانلود کنید.
+یا نسخه ZIP را از همین صفحه دانلود کنید.
 
 ---
 
@@ -247,10 +242,6 @@ Save your **Deployment ID**.
 
 ## Step 2: Download Project
 
-```bash
-git clone https://github.com/masterking32/MasterHttpRelayVPN.git
-cd MasterHttpRelayVPN
-```
 
 ---
 
